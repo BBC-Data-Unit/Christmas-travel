@@ -1,0 +1,1548 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Christmas 2016 bank holiday roadworks lifted and completed</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Highways England roadworks lifted and completed for May bank holiday weekend</name>
+			<Placemark>
+				<name>M5 J22 to J23 (near Bridgewater)</name>
+				<description><![CDATA[Centre reserve concrete barrier installation - 3.2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.975022,51.182943,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M5 J18 to J19 (near Bristol)</name>
+				<description><![CDATA[Replacement of streetlighting through Smart Motorways - 3.2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.536128,51.533851,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Second Severn Crossing (near Chepstow)</name>
+				<description><![CDATA[Resurfacing Works - 3.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.725603,51.580839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M5 J17 (near Bristol)</name>
+				<description><![CDATA[Resurfacing Works - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.599417,51.530811,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M5 J20 (near Weston-super-Mare)</name>
+				<description><![CDATA[Structure Maintenance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.841941,51.428658,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A30 (near Okehampton)</name>
+				<description><![CDATA[Bridge joint replacement - 0.95 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-3.976028,50.737898,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M2 Junction 5 - 6  (near Sittingbourne )</name>
+				<description><![CDATA[Carriageway strengthening - 10 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.772007,51.29724,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A27  (near Falmer, Sussex)</name>
+				<description><![CDATA[Carriageway works  - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.097054,50.860168,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A27  (near Portslade, Sussex )</name>
+				<description><![CDATA[Tunnel Maintenance  - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.239135,50.854145,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A27  (near West Sussex)</name>
+				<description><![CDATA[Vegetation clearance - 2.4 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.819144,50.846692,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M23 (near Crawley )</name>
+				<description><![CDATA[Resurfacing  - 6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.141468,51.124928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boundary to Painshill (near Cobham)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.319401,51.361887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Painshill to Boundary (near Cobham)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.322561,51.356705,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Esher to Painshill (near Esher)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.365148,51.348403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Painshill to Boundary (near Cobham)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.365505,51.348539,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Esher to Wisley (near Esher)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.412533,51.33884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wisley to Esher (near Esher)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.413544,51.338755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Painshill to Ockham (near Cobham)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.452264,51.319926,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ockham to Painshill (near Ockham)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.440137,51.330068,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ockham to Wisley (near Ockham)</name>
+				<description><![CDATA[Litter Clearance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.470831,51.310009,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ockham Entry Slip (near Ockham)</name>
+				<description><![CDATA[Litter Clearance - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.477048,51.30759,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1M Jn 6 - 4 (near Welwyn)</name>
+				<description><![CDATA[Horticulture - 1.8 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.226045,51.813255,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DRC East Tunnel (near Dartford)</name>
+				<description><![CDATA[Tunnel Maintenance - 1.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.25554,51.462379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jn 21a - 22 (near St Albans)</name>
+				<description><![CDATA[Electrical Works - 0.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.287072,51.7137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jn 22 Exit Slip (near London Colney)</name>
+				<description><![CDATA[Electrical Works - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.287072,51.7137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 5 - 4 (near Sevon Oaks)</name>
+				<description><![CDATA[Inspection/ Survey - 0.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.158736,51.321258,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 Jn 4 - Jn MSA (near Watford)</name>
+				<description><![CDATA[Inspection/ Survey - 1.3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.286725,51.636505,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 9 - 10 (near Leatherhead)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.438414,51.316963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 10-11 (near Wisley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 5.3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.485916,51.347579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 10 Entry Slip (near Wisley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.451908,51.32222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wisley Exit Slip (near Wisley)</name>
+				<description><![CDATA[Construction bridge / structure - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.452286,51.320578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 9 -10 (near Leatherhead)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.438757,51.317124,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 10-11 (near Wisley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 5.3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.485916,51.347579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 10 Entry Slip (near Wisley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.451763,51.322167,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wisley Exit Slip (near Wisley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.452151,51.320788,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 10 - 11 (near Wisley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.485522,51.344509,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 11 - 10 (near Wisley)</name>
+				<description><![CDATA[Drainage - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.476424,51.32818,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M11 SB - M25 A Link (near Theydon Bois)</name>
+				<description><![CDATA[Inspection/ Survey - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.13045,51.678618,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M23 Jn 8 - Boundary (near Merstham)</name>
+				<description><![CDATA[Inspection/ Survey - 1.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.122804,51.253186,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M23 Boundary - Jn 8 (near Merstham)</name>
+				<description><![CDATA[Inspection/ Survey - 1.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.12213,51.251657,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 21a - 23 (near London Colney)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 3.7 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.251437,51.705091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 22 Entry Slip A (near London Colney)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.273071,51.715961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn 4B - Jn 5 (near Colnbrook)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.524467,51.493085,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 A link to M24 WB (near Colnbrook)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.497143,51.492964,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 WB Jn 3 - Jn 4B (near Hayes)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 3.8 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.454504,51.495649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn 3 Entry Slip WB (near Hayes)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.413691,51.492274,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn 5 - 4 (near Slough)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 3.7 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.483028,51.49445,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 10 - 9 (near Wisley)</name>
+				<description><![CDATA[Signs Maintenance - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.401243,51.306044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M20 Jn 3 - 4 (near Wrotham)</name>
+				<description><![CDATA[Inspection/ Survey - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.361597,51.307868,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M20 Jn 4 - 3 (near Wrotham)</name>
+				<description><![CDATA[Inspection/ Survey - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.366194,51.308289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 21a - 20 (near St Albans)</name>
+				<description><![CDATA[Inspection/ Survey - 2.8 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.40218,51.713899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 10 - 9 (near Wisley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.431572,51.314346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 21a B Entry Slip (near St Albans)</name>
+				<description><![CDATA[Inspection/ Survey - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.375705,51.715287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 17 - 18 (near Chorleywood)</name>
+				<description><![CDATA[Electrical Works - 1.3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.502327,51.643158,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 17 A Entry Slip (near Chorleywood)</name>
+				<description><![CDATA[Electrical Works - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.509223,51.638657,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 17 - 19 (near Chorleywood)</name>
+				<description><![CDATA[Electrical Works - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.494821,51.655839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DRC West Tunnel (near Dartford)</name>
+				<description><![CDATA[Tunnel Maintenance - 1.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.243019,51.453623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DRC West Tunnel (near Dartford)</name>
+				<description><![CDATA[Tunnel Maintenance - 1.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.243019,51.453623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 18 A Exit Slip (near Chorleywood)</name>
+				<description><![CDATA[Electrical Works - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.496841,51.653688,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 18 A Entry Slip (near Chorleywood)</name>
+				<description><![CDATA[Electrical Works - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.495824,51.654626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A282 Jn 1a B entry Slip (near Dartford)</name>
+				<description><![CDATA[Tunnel Maintenance - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.241739,51.452985,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A282 Jn 1a B entry Slip (near Dartford)</name>
+				<description><![CDATA[Tunnel Maintenance - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.241739,51.452985,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A20 Jn 2 - 1 (near Swanley)</name>
+				<description><![CDATA[Inspection/ Survey - 1.8 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.160834,51.39432,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A20 - M25 Jn 3 (near Swanley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.178135,51.389339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A20 Jn 3 Exit Slip (near Swanley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.190663,51.389485,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 2 - 4 (near Swanley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.19045,51.383635,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 3 Entry Slip (near Swanley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.193142,51.386714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 4 - 2 (near Swanley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.193612,51.388646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 3 Exit Slip (near Swanley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.19107,51.385384,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 3 Entry Slip (near Swanley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.194964,51.390922,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 3 - 5 (near Swanley)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 2.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.156549,51.347666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 4 Entry Slip (near Orpington)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.157302,51.346061,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn 5 Exit Slip (near Slough)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.538669,51.492195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 4 - 3 (near Orpington)</name>
+				<description><![CDATA[Drainage - 0.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.187742,51.380785,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn 2 - 3 (near Hayes)</name>
+				<description><![CDATA[Inspection/ Survey - 0.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.356909,51.493628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn 3 - 2 (near Hayes)</name>
+				<description><![CDATA[Inspection/ Survey - 0.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.362964,51.491548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 2 - 3 (near Hayes)</name>
+				<description><![CDATA[Inspection/ Survey - 0.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.356909,51.493628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn 2 - 3  (near Hayes)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.391858,51.488067,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn 3 WB Exit (near Hayes)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.406958,51.491541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M4 Jn EB Entry (near Hayes)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.448973,51.495687,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 6 - 5 (near Godstone)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 1.8 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.082629,51.277326,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 22 - 21a (near London Colney)</name>
+				<description><![CDATA[Construction improvement/ upgrading - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.32341,51.711579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 23 - 21a (near South Mimms)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 2.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.288265,51.712637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 22 B Entry (near London Colney)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.281769,51.715174,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 27 - 26 (near Theydon Bois)</name>
+				<description><![CDATA[Carriageway reconstruction/ repair - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.091636,51.689548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 27 - 26 (near Theydon Bois)</name>
+				<description><![CDATA[Signs Maintenance - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.091636,51.689548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 22 - 23 (near London Colney)</name>
+				<description><![CDATA[Signs Maintenance - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.240829,51.696504,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 22 - 23 (near London Colney)</name>
+				<description><![CDATA[Signs Maintenance - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.240829,51.696504,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1089 Jn A13 - A126 (near Thurrock)</name>
+				<description><![CDATA[Safety Barrier/ Fence Repairs - 0.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.358275,51.494189,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 8 - 10 (near Leatherhead)</name>
+				<description><![CDATA[Structure Maintenance  - 1.3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.321732,51.304723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 10 - 8 (near Leatherhead)</name>
+				<description><![CDATA[Structure Maintenance  - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.334964,51.315304,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 26 - 27 (near Waltham Abbey)</name>
+				<description><![CDATA[Inspection/ Survey - 2.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.321732,51.304723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 22-21a (near London Colney)</name>
+				<description><![CDATA[Signs Maintenance - 0.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.321298,51.711707,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 17 - 16 (near Chorleywood)</name>
+				<description><![CDATA[Signs Maintenance - 2.1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.533805,51.438479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 7 - 8 (near Merstham)</name>
+				<description><![CDATA[Inspection/ Survey - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.172918,51.26731,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 7 - 8 (near Merstham)</name>
+				<description><![CDATA[Inspection/ Survey - 1.4 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.165534,51.26849,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 8a Exit Slip (near Reigate)</name>
+				<description><![CDATA[Inspection/ Survey - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.17147,51.267513,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 8 - 9 (near Reigate)</name>
+				<description><![CDATA[Inspection/ Survey - 1.3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.205712,51.25773,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M25 Jn 9 - 8 (near Leatherhead)</name>
+				<description><![CDATA[Inspection/ Survey - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.212739,51.257684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A30 Runnymede Rbt - Jn 13 (near Stains)</name>
+				<description><![CDATA[Inspection/ Survey - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.533805,51.438479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A421 Renhold to Cardington (near Bedford)</name>
+				<description><![CDATA[Bridge maintenance - 4.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.398496,52.144875,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A5 Frenches Avenue to A505 (near Dunstable)</name>
+				<description><![CDATA[Carriageway resurfacing works - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.543684,51.901277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1J10 (near Luton)</name>
+				<description><![CDATA[Communication works - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.421217,51.845702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A5 (near Milton Keynes)</name>
+				<description><![CDATA[Permanent safety barrier repairs - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.83472,52.053921,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J11 to J12 (near Luton)</name>
+				<description><![CDATA[Bridge inspection - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.074638,52.188208,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 (near Huntingdon)</name>
+				<description><![CDATA[Resurfacing works - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.249514,52.299591,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A14 J31 to J36 (near Cambridge)</name>
+				<description><![CDATA[Drainage works - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.185547,52.223566,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A47 J16 to J18 (near Peterborough)</name>
+				<description><![CDATA[Resurfacing and drainage works - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.280219,52.591617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M11 J8 to J9 (near Bishop's Stortford)</name>
+				<description><![CDATA[Bridge inspections - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.191675,52.053585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A12 Marks Tey (near Colchester)</name>
+				<description><![CDATA[Local Highway Authority resurfacing work adjacent to trunk road - 0.2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.779022,51.878956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Besthorpe to Spooner Row (near Wymondham)</name>
+				<description><![CDATA[Drainage works - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.107176,52.550393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A47 / A11 Thickthorn Roundabout (near Norwich)</name>
+				<description><![CDATA[Carriageway resurfacing works - 4 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.24649,52.591352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A47 / A146 Trowse Interchange (near Norwich)</name>
+				<description><![CDATA[Carriageway resurfacing works - 4 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.327967,52.610352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A47 Cucumber Lane to Postwick Interchange (near Norwich)</name>
+				<description><![CDATA[Carriageway resurfacing works - 3.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.404038,52.628323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A47 Hign Noon Lane - Cucumber lane Blofield (near Norwich)</name>
+				<description><![CDATA[Carriageway resurfacing works - 4.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.451828,52.638407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A47 Postwick Interchange to A146 Trowse (near Norwich)</name>
+				<description><![CDATA[Carriageway resurfacing works - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.356301,52.619848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gunton Church Lane to Station Road (near Lowestoft)</name>
+				<description><![CDATA[Cycleway improvements - 0.2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.735819,52.497318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J9, 45/7A and 46/5A (near Flamstead)</name>
+				<description><![CDATA[Upgrade of AMI's - 0.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.417624,51.821969,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J9-10, 48/1A and 48/5A (near Flamstead)</name>
+				<description><![CDATA[Upgrade of AMI's - 0.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.423224,51.851517,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J7-8 35.4-39.4A (near Hemel Hempstead)</name>
+				<description><![CDATA[Gantry Power Cabling Replacement - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.412831,51.751732,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J7-8 35.4-39.4A (near Hemel Hempstead)</name>
+				<description><![CDATA[Gantry Power Cabling Replacement - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.412831,51.751732,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J7-8 36.8-39.4A (near Hemel Hempstead)</name>
+				<description><![CDATA[Gantry Power Cabling Replacement - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.416577,51.756089,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J7-8 37.8-39.4A (near Hemel Hempstead)</name>
+				<description><![CDATA[Gantry Power Cabling Replacement - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.417565,51.761046,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J7-8 33.5-37.5A (near Hemel Hempstead)</name>
+				<description><![CDATA[Gantry Power Cabling Replacement - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.396276,51.739969,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J7-8 33.5-37.5A (near Hemel Hempstead)</name>
+				<description><![CDATA[Gantry Power Cabling Replacement - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.396276,51.739969,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J7-8 33.5-37.5A (near Hemel Hempstead)</name>
+				<description><![CDATA[Gantry Power Cabling Replacement - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.396276,51.739969,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>J15 (near Sawtry)</name>
+				<description><![CDATA[Surfacing - 1.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.273959,52.439006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J6 to J9 (near Hemel Hempstead)</name>
+				<description><![CDATA[Communication works - 3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.417565,51.761046,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M50 J1-J2 (near Tewkesbury)</name>
+				<description><![CDATA[Single lane closure on A438 under M50 J1-J2 - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.256931,52.001233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A56 Rising Bridge Roundabout (near Haslingden)</name>
+				<description><![CDATA[Embankment construction, fencing, traffic signals, realignment of roundabout, cycleway construction - 4 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.334877,53.751928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M62 J6 (near Huyton)</name>
+				<description><![CDATA[Lighting and cycleway scheme - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.79781,53.400758,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A63 Castle street, Hull (near Hull)</name>
+				<description><![CDATA[Relocation and modification of existing staggered pedestrian crossing. - 0.7 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.333706,53.740617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A63 Hedon Rd, Hull (near Hull)</name>
+				<description><![CDATA[Resurfacing works - 0.1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.305508,53.747233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A64 Rillington to West Knapton (near Malton)</name>
+				<description><![CDATA[Resurfacing works - 1.3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.681388,54.161757,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M18 / M1 J32 (near Rotherham)</name>
+				<description><![CDATA[Drainage works - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.285339,53.394842,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M621 J1 Beeston (near Leeds)</name>
+				<description><![CDATA[Resurfacing works - 6.2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.596296,53.76417,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M621 J27 Gildersome (near Leeds)</name>
+				<description><![CDATA[Resurfacing works - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.632154,53.747317,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M621 J1 to J3 (near Leeds)</name>
+				<description><![CDATA[Resurfacing works - 1.3 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.569936,53.780066,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A64 Tadcaster Bar to Askham Bar (near York)</name>
+				<description><![CDATA[Foot/Cycleway repairs and renewal of roadmarkings - 10.1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.185718,53.907256,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1M J61-63 (near Durham)</name>
+				<description><![CDATA[Resurfacing - 25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.529346,54.794283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 J66-67 (near Gateshead)</name>
+				<description><![CDATA[Electrical - 0.4 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.589381,54.912439,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 J70-71 (near Newcastle Upon Tyne)</name>
+				<description><![CDATA[Resurfacing - 1.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.658217,54.952383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 J67-71 (near Newcastle Upon Tyne)</name>
+				<description><![CDATA[Maintenance Work - 10 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.630887,54.94002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 J67 (near Gateshead)</name>
+				<description><![CDATA[Electrical - 0.6 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.613122,54.92101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 West Moor to Coquet (near Alnwick)</name>
+				<description><![CDATA[Resurfacing - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.726128,55.303518,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 Stannington (near Bedlington)</name>
+				<description><![CDATA[Drainage - 1.8 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.672541,55.1225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 West Cawledge (near Alnwick)</name>
+				<description><![CDATA[Resurfacing - 1.2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.706521,55.390882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M6 Jct 37 (near Sedburgh)</name>
+				<description><![CDATA[Carriageway reconstruction - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.632227,54.322973,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M6 Jct 43 (near Carlisle)</name>
+				<description><![CDATA[Patching works and replacement of joints - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.897015,54.91045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A66 (near Appleby)</name>
+				<description><![CDATA[Resurfacing works - 2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.310914,54.524311,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A66 (near Penrith)</name>
+				<description><![CDATA[Pavement repairs and reconstruction and darainage renewal works - 2.2 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.852062,54.641905,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A66 (near Keswick)</name>
+				<description><![CDATA[Installation of access steps and inpection areas for structures - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-3.162109,54.606189,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J25 (near Nottingham)</name>
+				<description><![CDATA[Bridge inspection - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.299731,52.916128,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J24-27 (near Nottingham)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.265776,52.963511,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M J21a-22 (near Leicester)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.25854,52.660025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J22-23 (near Loughborough)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.282308,52.728547,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J23-24 (near Derby)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.297722,52.798963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J23 (near Loughborough)</name>
+				<description><![CDATA[Bridge inspection - 1.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.2742,52.760475,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J23-22 (near Loughborough)</name>
+				<description><![CDATA[Survey works - 2.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.282176,52.73287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J23 (near Loughborough)</name>
+				<description><![CDATA[Carriageway repair - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.274295,52.762269,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 Trowell Services-J27 (near Nottingham)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.24459,53.01821,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 Trowell Services (near Nottingham)</name>
+				<description><![CDATA[Bridge inspection - 1.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.267086,52.962073,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M45 M1(J17) -J1 (near Rugby)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.229902,52.337938,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M69 M1(J21) -J1 (near Hinckley)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.285237,52.56454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 Barrowby-Long Bennington (near Grantham)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.720046,52.971415,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 Long Bennington-Winthorpe (near Newark on Trent)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.777093,53.039938,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 Tinwell-Colsterworth (near Stamford)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.595354,52.721339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A1 Sutton on Trent (near Newark on Trent)</name>
+				<description><![CDATA[Survey works - 2.75 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.824455,53.183829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A5 DIRFT-Magna Park (near Rugby)</name>
+				<description><![CDATA[Horticultural works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.210288,52.405427,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A5 Potterspury-Old Stratford (near Milton Keynes)</name>
+				<description><![CDATA[Survey works - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.880709,52.071777,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A5 Long Buckby (near Daventry)</name>
+				<description><![CDATA[Sign works - 0.5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.111658,52.28305,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A5 Catthorpe (near Rugby)</name>
+				<description><![CDATA[Bridge inspection - 0.25 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.20273,52.396318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A45 Stanwick-Higham Ferrers (near Wellingborough)</name>
+				<description><![CDATA[Survey works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.591275,52.321193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A50 J1 (near Derby)</name>
+				<description><![CDATA[Stud replacement - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.321973,52.86058,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A52 QMC-Wheatcroft Roundabout (near Nottingham)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.163135,52.92185,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A52 Wheatcroft-Saxondale Roundabout (near Nottingham)</name>
+				<description><![CDATA[Drainage works - 5 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.062409,52.938307,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A52 Bramcote Roundabout (near Nottingham)</name>
+				<description><![CDATA[Structure works - 1 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.25039,52.935443,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M49 (near Bristol)</name>
+				<description><![CDATA[Geotechnical survey - coring - 0.95 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.63728,51.543355,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M5 J4a to J6 (near Droitwich)</name>
+				<description><![CDATA[Constructing the Infrastruture for Smart Motorways (ALR) - 11.9 mile(s) of roadworks completed for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.11785,52.286822,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>J20 Dogsthorpe Interchange (near Peterborough)</name>
+				<description><![CDATA[Improvement works. TM on the A47 to facilitate works to A16 - 0.5mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-0.242721,52.6037,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>J45 Rookery Crossroads (near Bury St Edmunds)</name>
+				<description><![CDATA[New relief road being contracted by local highway authority - 3mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>0.779623,52.238436,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M6 J6-J8 (near Erdington Birmingham)</name>
+				<description><![CDATA[LBS Lane 3 and 4 NB and SB - 2mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.911743,52.540193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J20-21 (near Leicester)</name>
+				<description><![CDATA[Carriageway resurfacing - 5mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.18114,52.53796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A5 Magna Park-Gibbets Hill Roundabout (near Rugby)</name>
+				<description><![CDATA[Drainage works - 3.5mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.238845,52.437011,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A38 (near Alfreton)</name>
+				<description><![CDATA[Barrier and signage works - 5mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.408484,53.07372,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A38 (near Derby)</name>
+				<description><![CDATA[Barrier and signage works - 5mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.496959,52.93575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M5 J4a to J6 (near Droitwich)</name>
+				<description><![CDATA[Constructing the Infrastruture for Smart Motorways (ALR) - 11.9mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-2.11785,52.286822,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>M1 J34 to J36 (near Sheffield)</name>
+				<description><![CDATA[Works to enable the road to become a Smart Motorway - 5.4mile(s) of roadworks lifted for the Christmas and New Year Bank Holiday period.]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<Point>
+					<coordinates>-1.445109,53.452626,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1899-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
